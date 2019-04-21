@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.vinyles"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "Vinyles",
+    "packageName": "fr.vinyles",
+    "packageFolder": "fr/vinyles",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDA5NjgzOTkwYTRlMDEzMWYwZjQ5ZjUxM2EyNjI2ZTZkY2Y4OGFlOGM4ODJjYzI5ZWZiZWIwNGY5ODg3MDllNGZlOTg1MGM4ZmY4Yjg5ODgxMjEyODdlOTA4ZDNkZTAxZGQwOWQxNGZiZjFmNTE3MDAyNzM4OGY2NjM0Y2JiZjQ=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
